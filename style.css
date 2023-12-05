@@ -189,7 +189,8 @@ p {
 .social-media-marketing img {
     float: left;
     max-height: 200px;
-    padding-left: 20px;
+    padding-right: 20px;
+    /* padding-left: 0px; */
 }
 
 .search-engine-optimization h2 {
@@ -206,6 +207,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    padding-right: 20px;
 }
 
 .footer {
