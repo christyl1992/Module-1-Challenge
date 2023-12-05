@@ -49,10 +49,6 @@ body {
 }
 
 
-
-
-
-
 a {
     color: #ffffff;
     text-decoration: none;
@@ -184,12 +180,13 @@ p {
 .online-reputation-management img {
     float: right;
     max-height: 200px;
+    padding-left: 20px;
 }
 
 .social-media-marketing img {
     float: left;
     max-height: 200px;
-    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .search-engine-optimization h2 {
