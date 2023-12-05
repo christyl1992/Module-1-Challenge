@@ -67,8 +67,8 @@ p {
     display: flexbox;
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("./images/digital-marketing-meeting.jpg");
+    margin-bottom: 25px; 
+    background-image: url("https://christyl1992.github.io/Module-1-Challenge/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
