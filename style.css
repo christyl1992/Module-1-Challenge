@@ -49,6 +49,10 @@ body {
 }
 
 
+
+
+
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -64,7 +68,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -180,13 +184,12 @@ p {
 .online-reputation-management img {
     float: right;
     max-height: 200px;
-    padding-left: 20px;
 }
 
 .social-media-marketing img {
     float: left;
     max-height: 200px;
-    padding-right: 20px;
+    padding-left: 20px;
 }
 
 .search-engine-optimization h2 {
